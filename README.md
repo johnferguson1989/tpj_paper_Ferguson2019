@@ -4,5 +4,5 @@ This repository contains data and code as indiciated in the 2020 The Plant Jounr
 
 All_traits.csv: Mean values for all measured and modelled traits 
 
-Segemented_example.R: R code demonstrating the use of custom functions to model Tcrit, m1, m2 
+Segemented_example.R: R code demonstrating the use of custom functions to model Tcrit, m1, m2. Data required for this example are found in the sub-branch of this respository
 
